@@ -3,9 +3,7 @@
 <!-- INTRODUCCIÓN -->
 
 <div align="center">
-  <a href="https://lottiefiles.com/76616-programming">
-    <img src="" alt="Codiando" width="400">
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="Codiando" width="200">
 
   <p align="center">
     <h3 align="center">PRUEBAS TECNICAS REACT</h3>
