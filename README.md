@@ -25,7 +25,7 @@ Si eres un desarrollador que busca practicar resolviendo diferentes desafíos, e
 
 <ul>
   <li><a href="https://github.com/RafaMojica/REACT-PruebasTecnicas/tree/main/Prueba-tecnica-01">Prueba tecnica 01</a></li>
-  <li><a href="#">Prueba tecnica 02</a></li>
+  <li><a href="https://github.com/RafaMojica/REACT-PruebasTecnicas/tree/main/Prueba-tecnica-02">Prueba tecnica 02</a></li>
   <li><a href="#">Prueba tecnica 03</a></li>
 </ul>
 
